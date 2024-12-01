@@ -1,4 +1,6 @@
 # SQL Murder Mystery
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 Let's solve together this [mystery](https://mystery.knightlab.com/) though SQL?
 
 Fisrt of all, I'll paste herethe initial flavor text:
